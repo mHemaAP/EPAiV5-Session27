@@ -148,18 +148,19 @@ Although the notebook focuses on building the model architecture from scratch us
 ### Training Logs
 
 
-![Training Logs - CNN](cnn_image1.png)
+![Training Logs - CNN](assets/cnn_image1.png)
 
-![Training Logs - CNN](cnn_image2.png)
+![Training Logs - CNN](assets/cnn_image2.png)
 
-![Training Logs - CNN](cnn_image3.png)
+![Training Logs - CNN](assets/cnn_image3.png)
 
-![Training Logs - Transformer](transformer_image1.png)
+![Training Logs - Transformer](assets/transformer_image1.png)
 
-![Training Logs - Transformer](transformer_image2.png)
+![Training Logs - Transformer](assets/transformer_image2.png)
 
-![Training Logs - Transformer](transformer_image3.png)
+![Training Logs - Transformer](assets/transformer_image3.png)
 
-![Training History](training_history.png)
+![Training History](assets/training_history.png)
+
 
 
